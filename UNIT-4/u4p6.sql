@@ -1,0 +1,4 @@
+BEGIN
+    UPDATE_EMP_SALARY;
+END;
+/

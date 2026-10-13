@@ -1,0 +1,7 @@
+CREATE OR REPLACE FUNCTION get_square(num IN NUMBER)
+
+RETURN NUMBER IS
+BEGIN
+	RETURN num * num;
+END;
+/
